@@ -5,8 +5,4 @@
 *.swo
 *.swp
 
-*.db
 .private-settings
-django.wsgi
-migrations/*
-celerybeat-schedule

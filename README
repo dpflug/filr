@@ -1,0 +1,19 @@
+ Filr < http://github.com/dpflug/filr >
+
+WHAT IS FILR?
+
+    Filr (pronounced: "Filer") is a python library designed to connect to 
+    data streams created by Kral and archive all the data to a local or
+    remote database.
+
+CURRENT FEATURES:
+
+ * Initial support for connecting to Kral and dumping data.
+ 
+
+NOTES
+
+    This is by no means production-ready code. Do not actually use it in
+    production unless you wish to be eaten by a grue.
+
+    Questions/Comments? Please check us out on IRC via irc://udderweb.com/#uw
